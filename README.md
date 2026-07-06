@@ -2,6 +2,13 @@
 
 A modern CRUD File Manager built with Python and Streamlit.
 
+
+
+![File Manager Studio](home.png)
+
+
+
+
 ## ✨ Features
 - 📄 Create Files
 - 📖 Read Files
